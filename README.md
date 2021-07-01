@@ -1,7 +1,6 @@
 # AMR_tutorial
 Description of AMR data processing in python
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/venomj26/AMR_Tut/master)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makrozelle/AMR_Tut/tree/master/HEAD)
 ## A brief overview
 
  The CDC directs the AMR data to be reported to the National Center for Biological Information (NCBI) website for Surveillance of AMR in USA in its National Action Plan for combating AMR 2020-25[1]. Some of these datasets are publicly available and can be used in analyzing the transmission of AMR in the One Health spectrum (Human, animals, Environment) historically and geographically. The NCBI hosts AMR data for a list of 34 pathogens which include the bacteria in 2019 AMR threat report by CDC[2]. The goal for this project would be to get acquainted with scraping, selecting and processing data from the NCBI, National Antimicrobial Resistance Monitoring System (NARMS) and Veterinary Laboratory Investigation and Response Network (Vet-LIRN) AMR database using python, to create a one health database and to analyze carbapenem-resistant Acinetobacter pathogen along with its whole genome sequencing data (available at the NCBI database) for preliminary study on correlation of the AMR genes with the susceptibility test results.
